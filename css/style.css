@@ -65,7 +65,7 @@ body {
   height: 500px;
 }
 
-.kids{
+.kids h1, .kids p{
   color: #000000;
   text-shadow: 3px 3px 3px #FFFFFF;
 }
